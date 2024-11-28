@@ -25,10 +25,7 @@ const Skills = () => {
                 <h3>C++ <span>70%</span></h3>
                 <div className="bar"><span style={{ width: '70%' }}></span></div>
               </div>
-              <div className="progress">
-                <h3>Python <span>75%</span></h3>
-                <div className="bar"><span style={{ width: '75%' }}></span></div>
-              </div>
+
             </div>
           </div>
         </div>
@@ -45,10 +42,7 @@ const Skills = () => {
                 <h3>Web Development <span>68%</span></h3>
                 <div className="bar"><span style={{ width: '68%' }}></span></div>
               </div>
-              <div className="progress">
-                <h3>Graphic Design <span>85%</span></h3>
-                <div className="bar"><span style={{ width: '85%' }}></span></div>
-              </div>
+
               <div className="progress">
                 <h3>SEO Marketing <span>60%</span></h3>
                 <div className="bar"><span style={{ width: '60%' }}></span></div>

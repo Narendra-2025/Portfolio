@@ -11,8 +11,8 @@ const Education = () => {
           <div className="education-box">
             <div className="education-content">
               <div className="content">
-                <div className="year"><i className='bx bxs-calendar'>2019-2020</i></div>
-                <h3>High-Schooling - ABC High School</h3>
+                <div className="year"><i className='bx bxs-calendar'>2017-2018</i></div>
+                <h3>High-School - SVM inter College</h3>
                 <p>
                   Completed high-school with a focus on Science and Mathematics. Participated in various extracurricular activities, including sports and the student council.
                 </p>
@@ -20,10 +20,19 @@ const Education = () => {
             </div>
             <div className="education-content">
               <div className="content">
-                <div className="year"><i className='bx bxs-calendar'>2021-2025</i></div>
-                <h3>Bachelor's Degree - XYZ College</h3>
+                <div className="year"><i className='bx bxs-calendar'>2019-2020</i></div>
+                <h3>Intermediate- SVM inter College</h3>
                 <p>
-                  Currently pursuing a Bachelor's degree in Computer Science. Engaged in multiple hands-on projects and coding competitions. Gained knowledge in algorithms, data structures, and web development.
+                  Completed Intermediate with a focus on Science and Mathematics. Participated in various extracurricular activities, including sports and the student council.
+                </p>
+              </div>
+            </div>
+            <div className="education-content">
+              <div className="content">
+                <div className="year"><i className='bx bxs-calendar'>2021-2025</i></div>
+                <h3>Bachelor's Degree - Kamla Nehru Institute of Technology</h3>
+                <p>
+                  Currently pursuing a Bachelor's degree in Electronics engineering. Engaged in multiple hands-on projects . Gained knowledge in algorithms, data structures, and web development.
                 </p>
               </div>
             </div>
@@ -32,23 +41,29 @@ const Education = () => {
 
         {/* Experience Column */}
         <div className="education-column">
-          <h3 className="title">Experience</h3>
+          <h3 className="title">projects</h3>
           <div className="education-box">
             <div className="education-content">
               <div className="content">
-                <div className="year"><i className='bx bxs-calendar'>2022-2023</i></div>
-                <h3>Internship - Frontend Developer at ABC Tech</h3>
+                <h3>Travel-Maniac</h3>
                 <p>
-                  Worked as a frontend developer intern, building responsive websites using HTML, CSS, and JavaScript. Collaborated with the design team to implement UI components and improve website performance.
+                  Travel Maniac" is an intuitive itinerary website designed to help users find travel destinations tailored to their preferences. Built with React.js and Vite, it combines efficiency and modern design to create a seamless travel-planning experience.
                 </p>
               </div>
             </div>
             <div className="education-content">
               <div className="content">
-                <div className="year"><i className='bx bxs-calendar'>2023-Present</i></div>
-                <h3>Freelance Developer</h3>
+                <h3>Portfolio</h3>
                 <p>
-                  Currently working as a freelance developer, building and maintaining websites for small businesses. Focused on creating user-friendly interfaces and optimizing user experience across platforms.
+                  I created a portfolio website using React.js to showcase my skills, projects, and achievements. The website features a modern design, smooth navigation, and responsive layouts, providing an engaging platform to highlight my professional journey.
+                </p>
+              </div>
+            </div>
+            <div className="education-content">
+              <div className="content">
+                <h3>Weather-Forcast-app</h3>
+                <p>
+                I developed a weather forecast application using React.js and the OpenWeatherMap API. This app allows users to search for real-time weather details of any city, including temperature, humidity, wind speed, and more, displayed in a user-friendly interface with a responsive design
                 </p>
               </div>
             </div>

@@ -17,7 +17,9 @@ const About = () => {
       <div className="about-content">
         <h3>Frontend Developer</h3>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum tempora adipisci dicta dolor iste eveniet autem officiis quam architecto voluptatem accusantium enim asperiores, cupiditate pariatur exercitationem maiores culpa ullam debitis aspernatur rem, minus sit nobis tenetur vitae? Ea eaque et sunt. Quam laborum nisi commodi tempora dicta officia dolore consectetur?
+          I am a Frontend Developer passionate about building responsive, user-friendly web applications. 
+          Skilled in HTML, CSS, JavaScript, and React.js, I love turning ideas into seamless digital experiences. 
+          I’m always eager to learn and grow in this ever-evolving field.
         </p>
         <div className="btn-box btns">
           <button className="btn" onClick={handleReadMoreClick}>Read More</button>
